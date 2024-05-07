@@ -5,7 +5,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SidBudhia",
   resume:
-    "https://drive.google.com/file/d/1i1fNSyYEo-XUrQzlGewbZqEnEhVE258l/view?usp=drive_link",
+    "https://firebasestorage.googleapis.com/v0/b/portfolio-docs-da824.appspot.com/o/Siddharth_Budhia.pdf?alt=media&token=de359f7a-9847-4ca4-9014-fa1844ffef59",
   linkedin: "https://www.linkedin.com/in/siddharthbudhia21/",
   twitter: "https://twitter.com/SidBudhia07",
   insta: "https://www.instagram.com/sid.budhia_21",
